@@ -30,6 +30,7 @@ DSA-Sparse_matrix/
    ```bash
    git clone https://github.com/Gaddy01/DSA-Sparse_matrix.git
    cd DSA-Sparse_matrix
+   ```
 
 2. **Prepare Input Data**:
 Place your input matrix files in the input_data/ directory. Ensure they are formatted correctly as per the project's requirements.
@@ -49,7 +50,7 @@ The sparseMatricesOperations.py script reads matrices from the input_data/ direc
 Ensure that your input files are named and formatted correctly. You may need to modify the script to match your specific input file names and desired operations.
 
 ## ⚠️ Attention
-N.B: I did not upload the multiplication result file because it was too large (500MB). Please if you're running the multiplication operation, be patient, it might take a while
+N.B: I did not upload the multiplication result file because it was too large (500MB). Please if you're running the multiplication operation, be patient, it might take a while.
 
 ## Author
 Gaddiel Irakoze
