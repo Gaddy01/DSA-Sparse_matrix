@@ -48,6 +48,9 @@ The results will be saved in the output_data/ directory.
 The sparseMatricesOperations.py script reads matrices from the input_data/ directory, performs specified operations, and writes the results to the output_data/ directory.
 Ensure that your input files are named and formatted correctly. You may need to modify the script to match your specific input file names and desired operations.
 
+## ⚠️ Attention
+N.B: I did not upload the multiplication result file because it was too large (500MB). Please if you're running the multiplication operation, be patient, it might take a while
+
 ## Author
 Gaddiel Irakoze
 
