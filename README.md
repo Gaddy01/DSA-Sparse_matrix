@@ -1,4 +1,4 @@
-# DSA-Sparse_matrix
+# DSA-Sparse_matrix Assignment
 
 This project is a Data Structures and Algorithms assignment focusing on operations with sparse matrices.  
 A sparse matrix is a matrix predominantly filled with zero values, and this project provides tools to efficiently store and manipulate such matrices.
@@ -10,11 +10,13 @@ A sparse matrix is a matrix predominantly filled with zero values, and this proj
 - **Data Handling**: Includes functionality to read input data and write output results.
 
 ## Repository Structure
+```bash
 DSA-Sparse_matrix/
 ├── input_data/ # Contains input files for matrix operations
 ├── output_data/ # Stores the results of matrix operations
 ├── sparseMatricesOperations.py # Main script with implementations of sparse matrix operations
 └── README.md # Project documentation
+```
 
 ## Getting Started
 
